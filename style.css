@@ -7,7 +7,7 @@
 .header {
     min-height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/foto1.jpg);
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/foto3.jpg);
     background-position: center;
     background-size: cover;
     position: relative; 
@@ -127,7 +127,6 @@ nav .fa {
 .projektet h1{
     font-size: 36px;
     font-weight: 600;
-    color: rgba(4,9,30,0.7);
 }
 p {
     color: #777;
@@ -178,7 +177,6 @@ p {
 .rrethnesh h1{
     font-size: 36px;
     font-weight: 600;
-    color: rgba(4,9,30,0.7);
 }
 .rrethnesh p {
     color: #777;
