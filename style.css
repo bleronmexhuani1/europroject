@@ -164,6 +164,9 @@ p {
     .projektetimg {
         width: 100%;
     }
+    .projektetimg img {
+        opacity:1;
+    }
 }
 /************************Rreth nesh **************************/
 .rrethnesh{
