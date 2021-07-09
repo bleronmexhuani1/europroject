@@ -220,7 +220,7 @@ p {
     flex-basis:31%;
     border-radius: 10px;
     margin-bottom: 5%;
-    text-align: left;
+    text-align: center;
 }
 .sherbimet-col img {
     width: 70%;
@@ -233,7 +233,7 @@ p {
 .sherbimet-col h3 {
     margin-top: 16px;
     margin-bottom: 15px;
-    text-align:left;
+    text-align:center;
 }
 
 
