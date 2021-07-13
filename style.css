@@ -149,7 +149,7 @@ p {
 .projektet img {
     border-radius: 10px;
     cursor: pointer;
-    opacity: 0.85;
+    opacity: 1;
     padding:2px;
 }
 .projektet img:hover {
@@ -164,7 +164,7 @@ p {
         width: 100%;
     }
     .projektetimg img {
-        opacity:1;
+        opacity: 1;
     }
 }
 /************************Rreth nesh **************************/
@@ -192,11 +192,13 @@ p {
 }
 .rrethnesh-col {
     flex-basis: 31%;
-    background-color: #fff3f3;
+    background-color: white;
     border-radius: 10px;
     margin-bottom:5%;
     padding:20px 12px;
     box-sizing: border-box;
+    box-shadow: 0 0 5px 0px rgba(0, 0, 0, 0.2);
+    
 }
 .rrethnesh h3 {
     text-align: center;
